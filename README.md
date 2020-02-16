@@ -1,2 +1,2 @@
 # URI_ONLINE_JUDGE
-Repósitórios para manter os algoritmos resolvidos do  URIONLINEJUDGE.
+Repósitório para manter os algoritmos resolvidos do site  URIONLINEJUDGE.
